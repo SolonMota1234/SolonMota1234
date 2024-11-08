@@ -2,8 +2,8 @@
 <h2>Hi, i'm Solon Mota</h2>
 <div>
   <a href=https://github.com/SolonMota1234">
-  <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api?username=SolonMota1234&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolonMota1234&layout=compact&langs_count=16&theme=dark"/>   
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=SolonMota1234&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolonMota1234&layout=compact&langs_count=16&theme=dark"/>   
 </div>
 <div style=display:inline_block><br>
   <img align="center" alt="Solon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
